@@ -42,3 +42,11 @@ title('Phase spectrum');
 ![DFT-1](https://github.com/user-attachments/assets/0de39c89-ad4f-488a-a86a-1025ca6d9f2a)
 
 ![DFT-2](https://github.com/user-attachments/assets/aca83c89-db29-48f1-9fa7-77ba802fa496)
+
+
+### SAMPLE OUTPUT:
+<img width="756" height="715" alt="DFT dtsp" src="https://github.com/user-attachments/assets/aa0c7ff0-4927-4c84-8242-654cbe473753" />
+
+
+## RESULT:
+Thus,  DFT using direct method for two given sequences were performed and its result was verified.
