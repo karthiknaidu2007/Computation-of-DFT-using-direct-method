@@ -39,13 +39,16 @@ ylabel('Phase');
 title('Phase spectrum');
 ```
 ### CALCULATIONS:
-![DFT-1](https://github.com/user-attachments/assets/0de39c89-ad4f-488a-a86a-1025ca6d9f2a)
 
-![DFT-2](https://github.com/user-attachments/assets/aca83c89-db29-48f1-9fa7-77ba802fa496)
-
+<img width="984" height="1589" alt="image" src="https://github.com/user-attachments/assets/f48f0c16-249d-440b-be1c-c67c33560b1f" />
+<img width="993" height="1600" alt="image" src="https://github.com/user-attachments/assets/1098c371-3b5d-4a50-9865-2ad1c0ff2096" />
+<img width="992" height="1510" alt="image" src="https://github.com/user-attachments/assets/8577b37b-26c5-49a3-9297-c95005273601" />
+<img width="959" height="1529" alt="image" src="https://github.com/user-attachments/assets/6c66fba0-61cb-4670-8d27-77dc7a788646" />
+<img width="1523" height="671" alt="image" src="https://github.com/user-attachments/assets/cca8b998-9f02-49d5-8b7e-b10476c1ffa6" />
+<img width="891" height="1471" alt="image" src="https://github.com/user-attachments/assets/a185b0b8-d014-4bee-88d5-20a82a3aff63" />
 
 ### SAMPLE OUTPUT:
-<img width="756" height="715" alt="DFT dtsp" src="https://github.com/user-attachments/assets/aa0c7ff0-4927-4c84-8242-654cbe473753" />
+<img width="1920" height="1200" alt="Screenshot 2026-02-09 092120" src="https://github.com/user-attachments/assets/b6a6d364-dc2d-4df1-abc7-83e3e72a89bd" />
 
 
 ## RESULT:
